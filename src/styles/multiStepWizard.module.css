@@ -1,0 +1,49 @@
+.back_blue_color {
+  background-color: #006ab3;
+}
+.back_light_color {
+  background-color: #e2e2e2;
+}
+.right_radius {
+  border-radius: 0% 50px 50px 0%;
+}
+
+.form {
+  padding: 0px 15px 15px 15px;
+  margin-top: -10px;
+}
+.red_staric {
+  color: red;
+  font-weight: bold;
+}
+
+.form_group > label {
+  top: 18px;
+  left: 6px;
+  position: relative;
+  background-color: white;
+  padding: 2px 8px 2px 8px;
+  font-size: 0.6em;
+  z-index: 1;
+}
+
+.selected_days {
+  background-color: #006ab3;
+  width: 35px;
+  padding: 5px;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 5px;
+  color: white;
+}
+.none_selected_days {
+  background-color: #d5d8da;
+  width: 35px;
+  padding: 5px;
+  text-align: center;
+  vertical-align: middle;
+  border-radius: 5px;
+}
+.button_day {
+  border-radius: 50%;
+}

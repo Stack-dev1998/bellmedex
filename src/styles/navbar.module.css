@@ -1,0 +1,18 @@
+.navbar_div {
+  border-bottom: 1px solid #ced4da;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #dee2e6;
+}
+.notifications_icon{
+    position: absolute;
+    margin-left: -10px;
+    top: 15;
+    color: white;
+    font-size: 11px;
+    background-color: red;
+    border-radius: 50%;
+    text-align: center;
+    padding-left: 4px;
+    padding-right: 4px;
+}

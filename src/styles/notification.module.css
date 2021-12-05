@@ -1,0 +1,10 @@
+.notification_div {
+  position: absolute;
+  right: 0;
+  margin-top: 50px;
+  width: 40%;
+  background-color: #dee2e6;
+}
+.p_tag{
+    margin-left: 10px;
+}
